@@ -7,7 +7,7 @@ It contains My Educational background, hobbies, a representation of who I am and
 ## Setup/Installation Requirements
 * Open live link
 * Open repo link
-* clone the repo {git clone https://github.com/Ancel-Ajanga/Landing-Portfolio.git}
+* clone the repo git clone https://github.com/Ancel-Ajanga/Landing-Portfolio.git
 
 ## Technologies Used
 CSS, JAVASCRIPT & HTML
