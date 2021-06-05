@@ -7,12 +7,13 @@ It contains My Educational background, hobbies, a representation of who I am and
 ## Setup/Installation Requirements
 * Open live link
 * Open repo link
+* clone the repo {git clone https://github.com/Ancel-Ajanga/Landing-Portfolio.git}
 
 ## Technologies Used
 CSS, JAVASCRIPT & HTML
 ## Support and contact details
-
+ajanga.ancel@yahoo.com
 ### License
-MORINGA SCHOOL
+This is under [THE MORINGA SCHOOL] (LICENCE) licence
 
-Copyright (c) [2021] [Ajanga Ancel Lewis]
+Copyright (c) [2021] **[Ajanga Ancel Lewis]**
