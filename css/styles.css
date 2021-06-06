@@ -1,4 +1,5 @@
 h1 {
+  font-size: 45px;
   color: red;
   text-align: center;
 }
@@ -32,9 +33,13 @@ body {
   background-color: beige
 }
 img {
-  height: 750px;
-  width: 700px;
+  height: 1000px;
+  width: 900px;
   float: none;
   align-content: center;
   margin-left: 200px
+}
+p {
+  font-size: 15px;
+  font-style: normal;
 }
