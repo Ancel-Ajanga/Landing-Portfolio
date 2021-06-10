@@ -17,6 +17,11 @@ overflow: scroll;
   color: rgb(5, 46, 8);
   font-weight: bolder;
   font-family: cursive;
+  font-size: large;
+}
+.title {
+  font-size: 55px;
+
 }
 h2 {
   text-align: center;
